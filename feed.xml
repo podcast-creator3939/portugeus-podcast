@@ -10,6 +10,17 @@
     <image><url>https://podcast-creator3939.github.io/portugeus-podcast/artwork.png</url><title>Podcast Brasil — Português do dia a dia</title><link>https://podcast-creator3939.github.io/portugeus-podcast/</link></image>
     <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Podcast Brasil — 12 de novembro de 2026</title>
+      <description>Ana e Rafa falam do discurso do Lula na COP31, da primeira repatriação de restos mortais de pessoas escravizadas e dos incêndios em Alter do Chão. Expressão do dia: ficar de olho.
 
+Notas de estudo e roteiro completo: https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-12/</description>
+      <link>https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-12/</link>
+      <guid isPermaLink="false">podcast-brasil-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-12/episode.mp3" length="2118381" type="audio/mpeg"/>
+      <itunes:duration>264</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
