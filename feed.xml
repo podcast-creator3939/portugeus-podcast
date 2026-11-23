@@ -11,6 +11,18 @@
     <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Podcast Brasil — 23 de novembro de 2026</title>
+      <description>Ana e Rafa falam da votação do ajuste fiscal na Câmara, do filme &quot;Camisas Negras&quot; sobre o Vasco de 1923 e da calopsita Tikita, que viajou 672 km pra uma formatura. Expressão do dia: dar a volta por cima.
+
+Notas de estudo e roteiro completo: https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-23/</description>
+      <link>https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-23/</link>
+      <guid isPermaLink="false">podcast-brasil-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-23/episode.mp3" length="2628525" type="audio/mpeg"/>
+      <itunes:duration>328</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Podcast Brasil — 12 de novembro de 2026</title>
       <description>Ana e Rafa falam do discurso do Lula na COP31, da primeira repatriação de restos mortais de pessoas escravizadas e dos incêndios em Alter do Chão. Expressão do dia: ficar de olho.
 
