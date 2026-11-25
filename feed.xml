@@ -11,6 +11,18 @@
     <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Podcast Brasil — 25 de novembro de 2026</title>
+      <description>Ana e Rafa falam da votação da regulação das big techs marcada pra primeiro de dezembro, da residência de Sandy e Junior num estádio de São Paulo e da nova perereca descoberta pelo canto em Cataguases (MG). Expressão do dia: matar a saudade.
+
+Notas de estudo e roteiro completo: https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-25/</description>
+      <link>https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-25/</link>
+      <guid isPermaLink="false">podcast-brasil-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-25/episode.mp3" length="2668653" type="audio/mpeg"/>
+      <itunes:duration>333</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Podcast Brasil — 24 de novembro de 2026</title>
       <description>Ana e Rafa falam da aprovação do ajuste fiscal na Câmara, da Semana Nacional de Ciência e Tecnologia em Brasília, com o tema &quot;Ciência Delas&quot;, e dos vestidos de noiva feitos por detentos em Chapecó. Expressão do dia: botar a mão na massa.
 
