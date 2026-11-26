@@ -11,6 +11,18 @@
     <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Podcast Brasil — 26 de novembro de 2026</title>
+      <description>Ana e Rafa falam das novas regras do Banco Central contra o endividamento das famílias, da final da Libertadores entre Palmeiras e Estudiantes em Montevidéu e do laboratório da Universidade Federal de Lavras que recria cavernas. Expressão do dia: pisar no freio.
+
+Notas de estudo e roteiro completo: https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-26/</description>
+      <link>https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-26/</link>
+      <guid isPermaLink="false">podcast-brasil-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-26/episode.mp3" length="2700333" type="audio/mpeg"/>
+      <itunes:duration>337</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Podcast Brasil — 25 de novembro de 2026</title>
       <description>Ana e Rafa falam da votação da regulação das big techs marcada pra primeiro de dezembro, da residência de Sandy e Junior num estádio de São Paulo e da nova perereca descoberta pelo canto em Cataguases (MG). Expressão do dia: matar a saudade.
 
