@@ -11,6 +11,18 @@
     <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Podcast Brasil — 27 de novembro de 2026</title>
+      <description>Ana e Rafa falam do convite de Lula a Luiz Carlos Trabuco para o Ministério da Fazenda, da Black Friday com crescimento modesto nas vendas e da previsão de um verão mais quente e seco em Pernambuco. Expressão do dia: custar os olhos da cara.
+
+Notas de estudo e roteiro completo: https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-27/</description>
+      <link>https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-27/</link>
+      <guid isPermaLink="false">podcast-brasil-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://podcast-creator3939.github.io/portugeus-podcast/episodes/2026-11-27/episode.mp3" length="2708589" type="audio/mpeg"/>
+      <itunes:duration>338</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Podcast Brasil — 26 de novembro de 2026</title>
       <description>Ana e Rafa falam das novas regras do Banco Central contra o endividamento das famílias, da final da Libertadores entre Palmeiras e Estudiantes em Montevidéu e do laboratório da Universidade Federal de Lavras que recria cavernas. Expressão do dia: pisar no freio.
 
